@@ -2,7 +2,6 @@
 <!--
 <img width="1200" height="400" alt="Image" src="https://github.com/user-attachments/assets/c1a80f95-867d-499b-b889-ef614fab4455" />
 -->
-
 # About Me
 I specialize in end-to-end data analytics, taking raw and often messy datasets and transforming them into sleek executive-ready reporting dashboards.
 
