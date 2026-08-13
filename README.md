@@ -1,4 +1,5 @@
-<p align="center">![Profile Banner](https://github.com/user-attachments/assets/c1a80f95-867d-499b-b889-ef614fab4455)
+<p align="center">
+![Profile Banner](https://github.com/user-attachments/assets/c1a80f95-867d-499b-b889-ef614fab4455)
 </p>
 <!--
 <img width="1200" height="400" alt="Image" src="https://github.com/user-attachments/assets/c1a80f95-867d-499b-b889-ef614fab4455" />
