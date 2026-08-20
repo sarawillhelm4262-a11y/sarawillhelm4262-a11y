@@ -14,10 +14,13 @@ I am a returning Business Intelligence professional leveraging a degree in CS, a
 * **Continuous Learning:** Expanding my enterprise technical portfolio with modern real-world scenarios focused on credit risk, pipeline optimization, and relational database star-schema design.
 
 ### 🛠️ Skills & Tools
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/SaraWillhelm-5334/51A678435520EA0E?sharingId=891F927D86DB3504" target="_blank">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="120" alt="Microsoft Certified Associate">
+</a>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 
 * **Data Engineering & Querying:** SQL, Data Extraction, Relational Joins, Schema Design
-* **Business Intelligence & Reporting:** Power BI, DAX (Data Analysis Expressions)
+* **Business Intelligence & Reporting:** Microsoft Certified: Power BI Data Analyst Associate (Issued Aug 2026), Power BI, DAX (Data Analysis Expressions), Data Modeling, Data Visualization
 * **Programming:** Java, C++, SQL
 * **Other:** Quantitative Mathematics Modeling, Photoshop
